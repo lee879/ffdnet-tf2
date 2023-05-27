@@ -1,0 +1,2 @@
+model_checkpoint_path: "best_d.hd5"
+all_model_checkpoint_paths: "best_d.hd5"
